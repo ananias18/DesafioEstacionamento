@@ -1,0 +1,14 @@
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.exe
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.deps.json
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.pdb
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\refint\Estacionamento.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.pdb
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Estacionamento\Estacionamento\obj\Debug\net7.0\ref\Estacionamento.dll
